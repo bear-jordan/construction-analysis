@@ -1,7 +1,11 @@
 # construction-analysis
 
-If you are comparing two independant samples use t-test (e.g. satisfaction by gender)
-If you are comparing more than two independant samples use anova (e.g. satisfaction by age category)
-
-1. Install packages
-2. Run script
+To setup:
+1. Install git
+2. Clone the repository
+3. Install R
+4. Install RStudio
+5. In RStudio, navigate to the `construction-analysis` folder
+6. Set `construction-analysis` as the working directory
+7. Run `main.R`
+8. Perform analyses
