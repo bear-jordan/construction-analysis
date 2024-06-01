@@ -1,51 +1,51 @@
-Timestamp,Type of Organization,CIDA Grade,Age,Gender,Designation,Type of Project,Cost,Duration,Cost Effectiveness,Cost Effectivness - Resources,Cost Effectiveness - Budget,Adheres to Deadlines,Subcontracter Delays,Accelerate Work,Required Quality,Client was Satisfied,Satisfied with QAQC,Communicates Clearly and Timely,Resolves Conflict,Engages in Project Discussions,Consistently Provides Resources,Sub has High Quality Resources,Flexible,Safety Conscious,Insured,Risk Avoidant,Satisfied with Sub Performance,Sub Contributed to Success,Willing to Rehire Sub
-1/29/2024 21:15:04,Private,Below C4,31-40,Male,Safety Officer,Bridge Construction,250Mn – 500Mn,12 Months – 24 Months,3,4,4,4,5,5,4,4,4,4,5,4,5,5,4,5,5,3,4,5,4
-1/29/2024 23:47:50,Private,CS1,41-50,Female,Project Engineer,Infrastructure Development,250Mn – 500Mn,12 Months – 24 Months,1,5,5,1,4,5,4,4,5,4,4,5,5,5,3,4,5,4,4,5,4
-1/30/2024 10:49:41,Private,CS2,51-60,Male,General Manager,Infrastructure Development,250Mn – 500Mn,6 Months – 12 Months,5,5,4,4,5,4,5,5,5,5,4,4,4,4,5,4,5,5,4,4,5
-1/30/2024 11:35:31,Semi-Government,CS1,41-50,Male,Project Engineer,Bridge Construction,250Mn – 500Mn,24 Months – 60 Months,5,5,4,4,5,4,5,5,4,5,5,4,2,5,4,5,5,5,5,5,4
-1/30/2024 12:55:20,Semi-Government,C1,51-60,Female,Project Manager,Infrastructure Development,500Mn – 1000Mn,24 Months – 60 Months,5,5,5,5,5,5,5,5,4,3,5,5,5,5,4,5,4,4,4,5,4
-1/30/2024 22:15:35,Private,C1,41-50,Female,Project Director,Infrastructure Development,Below 250Mn,6 Months – 12 Months,5,5,5,4,4,5,4,5,3,5,4,5,1,5,5,4,5,1,4,4,5
-1/30/2024 22:26:43,Government,CS2,31-40,Female,Safety Officer,Building Construction,250Mn – 500Mn,24 Months – 60 Months,5,4,4,5,4,4,2,5,4,4,4,5,5,4,5,1,4,1,5,5,4
-1/31/2024 17:29:46,Government,C1,25-30,Male,Safety Officer,Building Construction,500Mn – 1000Mn,24 Months – 60 Months,3,5,4,4,5,4,4,5,4,4,4,4,5,5,5,5,5,1,5,4,4
-1/31/2024 23:05:18,Government,C1,51-60,Male,Project Director,Infrastructure Development,Above 1000Mn,More than 60 Months,5,4,4,1,4,4,4,5,5,5,4,4,5,5,5,4,5,4,5,5,5
-2/1/2024 22:21:43,Private,CS2,31-40,Male,Safety Officer,Highway Construction,250Mn – 500Mn,24 Months – 60 Months,1,5,5,5,3,5,4,4,4,5,1,5,5,4,4,5,4,3,4,2,5
-2/2/2024 21:15:12,Private,C4,31-40,Female,Project Manager,Bridge Construction,Above 1000Mn,More than 60 Months,4,4,3,5,4,4,5,4,5,4,4,4,4,1,4,5,4,4,4,5,4
-2/2/2024 23:56:13,Government,C1,51-60,Female,Safety Officer,Bridge Construction,500Mn – 1000Mn,6 Months – 12 Months,5,5,3,4,1,5,5,4,5,5,5,5,4,4,4,3,3,5,5,4,4
-2/3/2024 19:59:03,Government,Below C4,41-50,Female,Project Manager,Highway Construction,500Mn – 1000Mn,6 Months – 12 Months,5,4,4,3,4,4,4,5,4,5,5,5,4,5,5,5,5,5,4,1,5
-2/3/2024 23:19:12,Private,C4,31-40,Male,Safety Officer,Building Construction,Below 250Mn,24 Months – 60 Months,3,2,5,4,5,3,4,4,5,4,4,5,5,5,4,5,1,5,4,5,2
-2/4/2023 21:47:39,Government,C1,41-50,Male,Safety Officer,Infrastructure Development,Above 1000Mn,More than 60 Months,5,4,5,5,5,2,3,5,5,5,5,5,2,4,4,5,5,2,2,4,2
-2/5/2024 16:24:36,Private,C3,31-40,Male,Safety Officer,Building Construction,500Mn – 1000Mn,6 Months – 12 Months,4,4,5,5,5,5,5,5,4,5,5,5,4,4,4,2,2,5,4,5,5
-2/5/2024 19:12:19,Private,C2,31-40,Male,General Manager,Bridge Construction,250Mn – 500Mn,6 Months – 12 Months,4,5,5,4,4,4,5,5,1,4,4,5,4,3,4,5,5,2,5,5,2
-2/5/2024 19:14:59,Private,C4,51-60,Male,Project Manager,Bridge Construction,500Mn – 1000Mn,More than 60 Months,4,5,5,5,4,1,5,3,1,5,1,5,4,3,5,4,4,4,4,5,5
-2/5/2024 23:45:34,Government,C4,25-30,Female,General Manager,Infrastructure Development,Below 250Mn,12 Months – 24 Months,4,5,4,5,5,5,5,3,2,5,1,5,4,4,5,2,5,5,4,4,4
-2/6/2024 20:37:56,Semi-Government,CS2,51-60,Male,Safety Officer,Building Construction,500Mn – 1000Mn,6 Months – 12 Months,5,4,4,5,5,3,5,5,5,1,5,5,4,5,2,4,5,4,5,4,3
-2/7/2024 7:54:20,Private,CS1,51-60,Male,General Manager,Building Construction,500Mn – 1000Mn,Less than 6 months,2,2,4,5,5,1,5,5,5,4,5,4,4,5,4,4,5,4,5,5,4
-2/7/2024 22:08:17,Government,C2,31-40,Male,General Manager,Building Construction,500Mn – 1000Mn,24 Months – 60 Months,4,4,5,4,4,5,3,5,4,3,5,4,5,4,3,5,4,4,2,5,4
-2/8/2024 18:32:36,Private,C4,25-30,Female,Project Director,Highway Construction,250Mn – 500Mn,12 Months – 24 Months,1,5,3,5,4,5,4,4,5,5,3,4,5,4,5,3,5,5,3,4,3
-2/8/2024 19:38:16,Government,C3,41-50,Male,General Manager,Bridge Construction,Above 1000Mn,6 Months – 12 Months,4,4,5,2,4,4,5,4,5,2,5,5,5,2,4,4,2,4,5,5,5
-2/8/2024 19:49:14,Private,CS2,31-40,Male,Safety Officer,Bridge Construction,250Mn – 500Mn,24 Months – 60 Months,5,4,2,5,5,5,5,4,5,5,5,4,4,5,5,4,3,4,4,5,4
-2/8/2024 22:06:49,Private,C4,51-60,Male,Project Director,Highway Construction,500Mn – 1000Mn,6 Months – 12 Months,4,1,4,2,5,5,4,4,5,4,2,4,3,5,5,4,5,5,5,5,4
-2/8/2024 22:51:48,Private,C3,51-60,Male,Project Director,Building Construction,Below 250Mn,24 Months – 60 Months,4,3,4,3,3,5,2,4,4,5,4,5,2,5,4,4,4,4,5,3,4
-2/9/2024 10:44:48,Government,Below C4,51-60,Male,Project Manager,Bridge Construction,250Mn – 500Mn,Less than 6 months,4,4,4,5,2,4,1,5,1,1,4,4,5,4,4,5,4,4,5,5,5
-2/9/2024 13:53:02,Private,CS1,51-60,Male,Project Director,Bridge Construction,500Mn – 1000Mn,12 Months – 24 Months,5,5,5,4,5,4,4,5,4,4,5,5,5,5,2,4,4,4,5,5,5
-2/9/2024 15:13:22,Government,C1,41-50,Male,Project Director,Highway Construction,500Mn – 1000Mn,12 Months – 24 Months,4,5,5,4,4,4,4,5,4,5,4,5,4,4,1,4,4,4,4,5,5
-2/9/2024 17:23:56,Government,Below C4,41-50,Female,Safety Officer,Building Construction,500Mn – 1000Mn,24 Months – 60 Months,2,5,2,5,4,4,5,1,4,4,5,5,5,4,5,4,5,4,3,4,5
-2/9/2024 18:45:09,Private,C4,31-40,Male,General Manager,Highway Construction,Below 250Mn,12 Months – 24 Months,5,5,5,5,5,5,5,5,5,2,5,3,3,4,5,5,4,4,5,4,1
-2/9/2024 20:04:59,Government,CS2,31-40,Female,Project Manager,Building Construction,500Mn – 1000Mn,Less than 6 months,5,2,4,2,5,4,4,5,5,4,5,4,4,4,5,5,4,5,5,4,5
-2/9/2024 21:09:08,Semi-Government,C4,25-30,Female,Project Manager,Highway Construction,500Mn – 1000Mn,24 Months – 60 Months,5,1,5,5,4,5,4,5,5,5,5,4,5,4,4,5,4,3,4,4,4
-2/9/2024 21:49:11,Private,C4,25-30,Male,Project Engineer,Building Construction,Above 1000Mn,6 Months – 12 Months,5,4,5,5,5,4,4,5,5,5,3,2,5,5,1,2,5,5,5,4,5
-2/9/2024 22:29:29,Private,CS1,51-60,Male,General Manager,Highway Construction,Below 250Mn,12 Months – 24 Months,5,4,4,4,4,5,5,4,4,4,5,2,4,5,5,4,5,4,4,5,5
-2/9/2024 23:47:38,Government,CS2,51-60,Male,Project Manager,Highway Construction,Below 250Mn,6 Months – 12 Months,4,4,5,4,2,5,5,4,5,5,2,4,4,5,2,4,4,4,5,2,4
-2/10/2024 18:40:59,Private,C1,51-60,Female,General Manager,Infrastructure Development,Below 250Mn,12 Months – 24 Months,4,4,4,4,4,5,5,5,5,4,4,4,4,5,5,5,5,5,5,4,5
-2/10/2024 19:00:32,Government,CS2,41-50,Male,Project Engineer,Building Construction,Above 1000Mn,12 Months – 24 Months,4,5,5,4,4,4,4,4,3,5,5,5,4,4,1,5,5,5,4,5,4
-2/11/2024 11:57:47,Government,C2,41-50,Female,Safety Officer,Building Construction,250Mn – 500Mn,24 Months – 60 Months,5,5,5,4,5,5,5,4,2,5,5,1,4,5,4,5,4,5,5,4,5
-2/11/2024 12:08:19,Government,CS1,51-60,Male,Safety Officer,Bridge Construction,Below 250Mn,12 Months – 24 Months,5,3,2,4,4,5,4,5,5,5,4,5,5,5,4,5,5,5,5,4,3
-2/11/2024 14:52:03,Government,C4,41-50,Female,General Manager,Bridge Construction,500Mn – 1000Mn,More than 60 Months,4,5,5,4,4,4,5,4,4,4,5,4,4,4,5,5,4,5,5,4,4
-2/11/2024 15:17:11,Private,C2,25-30,Male,Project Director,Building Construction,250Mn – 500Mn,12 Months – 24 Months,5,3,5,5,5,5,5,2,4,5,4,4,5,4,5,1,4,5,1,4,5
-2/11/2024 15:36:00,Private,Below C4,25-30,Male,Safety Officer,Bridge Construction,500Mn – 1000Mn,6 Months – 12 Months,4,4,5,5,5,4,4,4,5,4,4,4,5,5,5,4,2,5,4,5,1
-2/11/2024 16:39:30,Government,C3,31-40,Female,Project Director,Highway Construction,Below 250Mn,Less than 6 months,4,5,4,3,3,2,4,2,2,5,4,3,1,5,4,5,4,4,5,5,5
-2/11/2024 17:03:46,Private,Below C4,25-30,Male,Project Engineer,Bridge Construction,Below 250Mn,12 Months – 24 Months,4,5,1,5,4,5,1,4,4,4,4,5,5,2,3,4,5,5,1,4,1
-2/11/2024 18:51:17,Government,C1,25-30,Female,Project Director,Bridge Construction,500Mn – 1000Mn,6 Months – 12 Months,5,4,4,5,5,3,5,5,4,4,4,5,5,4,5,4,4,4,4,4,5
-2/11/2024 20:22:59,Semi-Government,CS1,51-60,Female,Safety Officer,Highway Construction,500Mn – 1000Mn,24 Months – 60 Months,4,5,5,4,5,5,5,5,5,4,4,4,5,5,4,5,5,5,4,5,5
-2/11/2024 22:18:59,Private,CS1,25-30,Male,Project Manager,Bridge Construction,500Mn – 1000Mn,More than 60 Months,2,4,4,5,5,4,5,4,4,5,5,5,5,4,5,5,5,5,5,5,4
-2/11/2024 23:52:07,Private,C2,25-30,Female,Project Manager,Infrastructure Development,Above 1000Mn,6 Months – 12 Months,4,4,4,4,5,4,4,4,4,4,3,5,4,2,4,4,4,5,5,3,4
+Type of Organization,CIDA Grade,Age,Gender,Designation,Type of Project,Cost,Duration,Cost Effectiveness,Cost Effectivness - Resources,Cost Effectiveness - Budget,Adheres to Deadlines,Subcontracter Delays,Accelerate Work,Required Quality,Client was Satisfied,Satisfied with QAQC,Communicates Clearly and Timely,Resolves Conflict,Engages in Project Discussions,Consistently Provides Resources,Sub has High Quality Resources,Flexible,Safety Conscious,Insured,Risk Avoidant,Satisfied with Sub Performance,Sub Contributed to Success,Willing to Rehire Sub
+Private,Below C4,31-40,Male,Safety Officer,Bridge Construction,250Mn – 500Mn,12 Months – 24 Months,3,4,4,4,5,5,4,4,4,4,5,4,5,5,4,5,5,3,4,5,4
+Private,CS1,41-50,Female,Project Engineer,Infrastructure Development,250Mn – 500Mn,12 Months – 24 Months,1,5,5,1,4,5,4,4,5,4,4,5,5,5,3,4,5,4,4,5,4
+Private,CS2,51-60,Male,General Manager,Infrastructure Development,250Mn – 500Mn,6 Months – 12 Months,5,5,4,4,5,4,5,5,5,5,4,4,4,4,5,4,5,5,4,4,5
+Semi-Government,CS1,41-50,Male,Project Engineer,Bridge Construction,250Mn – 500Mn,24 Months – 60 Months,5,5,4,4,5,4,5,5,4,5,5,4,2,5,4,5,5,5,5,5,4
+Semi-Government,C1,51-60,Female,Project Manager,Infrastructure Development,500Mn – 1000Mn,24 Months – 60 Months,5,5,5,5,5,5,5,5,4,3,5,5,5,5,4,5,4,4,4,5,4
+Private,C1,41-50,Female,Project Director,Infrastructure Development,Below 250Mn,6 Months – 12 Months,5,5,5,4,4,5,4,5,3,5,4,5,1,5,5,4,5,1,4,4,5
+Government,CS2,31-40,Female,Safety Officer,Building Construction,250Mn – 500Mn,24 Months – 60 Months,5,4,4,5,4,4,2,5,4,4,4,5,5,4,5,1,4,1,5,5,4
+Government,C1,25-30,Male,Safety Officer,Building Construction,500Mn – 1000Mn,24 Months – 60 Months,3,5,4,4,5,4,4,5,4,4,4,4,5,5,5,5,5,1,5,4,4
+Government,C1,51-60,Male,Project Director,Infrastructure Development,Above 1000Mn,More than 60 Months,5,4,4,1,4,4,4,5,5,5,4,4,5,5,5,4,5,4,5,5,5
+Private,CS2,31-40,Male,Safety Officer,Highway Construction,250Mn – 500Mn,24 Months – 60 Months,1,5,5,5,3,5,4,4,4,5,1,5,5,4,4,5,4,3,4,2,5
+Private,C4,31-40,Female,Project Manager,Bridge Construction,Above 1000Mn,More than 60 Months,4,4,3,5,4,4,5,4,5,4,4,4,4,1,4,5,4,4,4,5,4
+Government,C1,51-60,Female,Safety Officer,Bridge Construction,500Mn – 1000Mn,6 Months – 12 Months,5,5,3,4,1,5,5,4,5,5,5,5,4,4,4,3,3,5,5,4,4
+Government,Below C4,41-50,Female,Project Manager,Highway Construction,500Mn – 1000Mn,6 Months – 12 Months,5,4,4,3,4,4,4,5,4,5,5,5,4,5,5,5,5,5,4,1,5
+Private,C4,31-40,Male,Safety Officer,Building Construction,Below 250Mn,24 Months – 60 Months,3,2,5,4,5,3,4,4,5,4,4,5,5,5,4,5,1,5,4,5,2
+Government,C1,41-50,Male,Safety Officer,Infrastructure Development,Above 1000Mn,More than 60 Months,5,4,5,5,5,2,3,5,5,5,5,5,2,4,4,5,5,2,2,4,2
+Private,C3,31-40,Male,Safety Officer,Building Construction,500Mn – 1000Mn,6 Months – 12 Months,4,4,5,5,5,5,5,5,4,5,5,5,4,4,4,2,2,5,4,5,5
+Private,C2,31-40,Male,General Manager,Bridge Construction,250Mn – 500Mn,6 Months – 12 Months,4,5,5,4,4,4,5,5,1,4,4,5,4,3,4,5,5,2,5,5,2
+Private,C4,51-60,Male,Project Manager,Bridge Construction,500Mn – 1000Mn,More than 60 Months,4,5,5,5,4,1,5,3,1,5,1,5,4,3,5,4,4,4,4,5,5
+Government,C4,25-30,Female,General Manager,Infrastructure Development,Below 250Mn,12 Months – 24 Months,4,5,4,5,5,5,5,3,2,5,1,5,4,4,5,2,5,5,4,4,4
+Semi-Government,CS2,51-60,Male,Safety Officer,Building Construction,500Mn – 1000Mn,6 Months – 12 Months,5,4,4,5,5,3,5,5,5,1,5,5,4,5,2,4,5,4,5,4,3
+Private,CS1,51-60,Male,General Manager,Building Construction,500Mn – 1000Mn,Less than 6 months,2,2,4,5,5,1,5,5,5,4,5,4,4,5,4,4,5,4,5,5,4
+Government,C2,31-40,Male,General Manager,Building Construction,500Mn – 1000Mn,24 Months – 60 Months,4,4,5,4,4,5,3,5,4,3,5,4,5,4,3,5,4,4,2,5,4
+Private,C4,25-30,Female,Project Director,Highway Construction,250Mn – 500Mn,12 Months – 24 Months,1,5,3,5,4,5,4,4,5,5,3,4,5,4,5,3,5,5,3,4,3
+Government,C3,41-50,Male,General Manager,Bridge Construction,Above 1000Mn,6 Months – 12 Months,4,4,5,2,4,4,5,4,5,2,5,5,5,2,4,4,2,4,5,5,5
+Private,CS2,31-40,Male,Safety Officer,Bridge Construction,250Mn – 500Mn,24 Months – 60 Months,5,4,2,5,5,5,5,4,5,5,5,4,4,5,5,4,3,4,4,5,4
+Private,C4,51-60,Male,Project Director,Highway Construction,500Mn – 1000Mn,6 Months – 12 Months,4,1,4,2,5,5,4,4,5,4,2,4,3,5,5,4,5,5,5,5,4
+Private,C3,51-60,Male,Project Director,Building Construction,Below 250Mn,24 Months – 60 Months,4,3,4,3,3,5,2,4,4,5,4,5,2,5,4,4,4,4,5,3,4
+Government,Below C4,51-60,Male,Project Manager,Bridge Construction,250Mn – 500Mn,Less than 6 months,4,4,4,5,2,4,1,5,1,1,4,4,5,4,4,5,4,4,5,5,5
+Private,CS1,51-60,Male,Project Director,Bridge Construction,500Mn – 1000Mn,12 Months – 24 Months,5,5,5,4,5,4,4,5,4,4,5,5,5,5,2,4,4,4,5,5,5
+Government,C1,41-50,Male,Project Director,Highway Construction,500Mn – 1000Mn,12 Months – 24 Months,4,5,5,4,4,4,4,5,4,5,4,5,4,4,1,4,4,4,4,5,5
+Government,Below C4,41-50,Female,Safety Officer,Building Construction,500Mn – 1000Mn,24 Months – 60 Months,2,5,2,5,4,4,5,1,4,4,5,5,5,4,5,4,5,4,3,4,5
+Private,C4,31-40,Male,General Manager,Highway Construction,Below 250Mn,12 Months – 24 Months,5,5,5,5,5,5,5,5,5,2,5,3,3,4,5,5,4,4,5,4,1
+Government,CS2,31-40,Female,Project Manager,Building Construction,500Mn – 1000Mn,Less than 6 months,5,2,4,2,5,4,4,5,5,4,5,4,4,4,5,5,4,5,5,4,5
+Semi-Government,C4,25-30,Female,Project Manager,Highway Construction,500Mn – 1000Mn,24 Months – 60 Months,5,1,5,5,4,5,4,5,5,5,5,4,5,4,4,5,4,3,4,4,4
+Private,C4,25-30,Male,Project Engineer,Building Construction,Above 1000Mn,6 Months – 12 Months,5,4,5,5,5,4,4,5,5,5,3,2,5,5,1,2,5,5,5,4,5
+Private,CS1,51-60,Male,General Manager,Highway Construction,Below 250Mn,12 Months – 24 Months,5,4,4,4,4,5,5,4,4,4,5,2,4,5,5,4,5,4,4,5,5
+Government,CS2,51-60,Male,Project Manager,Highway Construction,Below 250Mn,6 Months – 12 Months,4,4,5,4,2,5,5,4,5,5,2,4,4,5,2,4,4,4,5,2,4
+Private,C1,51-60,Female,General Manager,Infrastructure Development,Below 250Mn,12 Months – 24 Months,4,4,4,4,4,5,5,5,5,4,4,4,4,5,5,5,5,5,5,4,5
+Government,CS2,41-50,Male,Project Engineer,Building Construction,Above 1000Mn,12 Months – 24 Months,4,5,5,4,4,4,4,4,3,5,5,5,4,4,1,5,5,5,4,5,4
+Government,C2,41-50,Female,Safety Officer,Building Construction,250Mn – 500Mn,24 Months – 60 Months,5,5,5,4,5,5,5,4,2,5,5,1,4,5,4,5,4,5,5,4,5
+Government,CS1,51-60,Male,Safety Officer,Bridge Construction,Below 250Mn,12 Months – 24 Months,5,3,2,4,4,5,4,5,5,5,4,5,5,5,4,5,5,5,5,4,3
+Government,C4,41-50,Female,General Manager,Bridge Construction,500Mn – 1000Mn,More than 60 Months,4,5,5,4,4,4,5,4,4,4,5,4,4,4,5,5,4,5,5,4,4
+Private,C2,25-30,Male,Project Director,Building Construction,250Mn – 500Mn,12 Months – 24 Months,5,3,5,5,5,5,5,2,4,5,4,4,5,4,5,1,4,5,1,4,5
+Private,Below C4,25-30,Male,Safety Officer,Bridge Construction,500Mn – 1000Mn,6 Months – 12 Months,4,4,5,5,5,4,4,4,5,4,4,4,5,5,5,4,2,5,4,5,1
+Government,C3,31-40,Female,Project Director,Highway Construction,Below 250Mn,Less than 6 months,4,5,4,3,3,2,4,2,2,5,4,3,1,5,4,5,4,4,5,5,5
+Private,Below C4,25-30,Male,Project Engineer,Bridge Construction,Below 250Mn,12 Months – 24 Months,4,5,1,5,4,5,1,4,4,4,4,5,5,2,3,4,5,5,1,4,1
+Government,C1,25-30,Female,Project Director,Bridge Construction,500Mn – 1000Mn,6 Months – 12 Months,5,4,4,5,5,3,5,5,4,4,4,5,5,4,5,4,4,4,4,4,5
+Semi-Government,CS1,51-60,Female,Safety Officer,Highway Construction,500Mn – 1000Mn,24 Months – 60 Months,4,5,5,4,5,5,5,5,5,4,4,4,5,5,4,5,5,5,4,5,5
+Private,CS1,25-30,Male,Project Manager,Bridge Construction,500Mn – 1000Mn,More than 60 Months,2,4,4,5,5,4,5,4,4,5,5,5,5,4,5,5,5,5,5,5,4
+Private,C2,25-30,Female,Project Manager,Infrastructure Development,Above 1000Mn,6 Months – 12 Months,4,4,4,4,5,4,4,4,4,4,3,5,4,2,4,4,4,5,5,3,4
