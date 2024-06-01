@@ -1,15 +1,28 @@
 # Define server logic
-server <- function(input, output) {
-    data <- reactive({
-        iris
+server <- function(input, output, session) {
+    data <- read.csv("./data/raw-data.csv")
+    
+    observe({
+        updateSelectInput(session, "response", choices = names(data))
+        updateCheckboxGroupInput(session, "factors", choices = names(data))
+    })
+    
+    output$response_ui <- renderUI({
+        selectInput("response", "Choose a response variable:", choices = names(data))
+    })
+    
+    output$factors_ui <- renderUI({
+        checkboxGroupInput("factors", "Choose factors:", choices = names(data))
     })
     
     model <- eventReactive(input$analyze, {
-        aov(as.formula(paste(input$variable, "~ Species")), data = data())
+        req(input$response, input$factors)
+        formula <- as.formula(paste(input$response, "~", paste(input$factors, collapse = " + ")))
+        aov(formula, data = data)
     })
     
     output$dataTable <- renderTable({
-        head(data())
+        head(data)
     })
     
     output$qqPlot <- renderPlot({
@@ -27,7 +40,7 @@ server <- function(input, output) {
     
     output$residualsPlot <- renderPlot({
         req(model())
-        ggplot(data(), aes(x = fitted(model()), y = residuals(model()))) +
+        ggplot(data, aes(x = fitted(model()), y = residuals(model()))) +
             geom_point() +
             geom_hline(yintercept = 0, linetype = "dashed") +
             ggtitle("Residuals vs Fitted Values")
@@ -35,7 +48,8 @@ server <- function(input, output) {
     
     output$leveneTest <- renderPrint({
         req(model())
-        leveneTest(as.formula(paste(input$variable, "~ Species")), data = data())
+        formula <- as.formula(paste(input$response, "~", paste(input$factors, collapse = " + ")))
+        leveneTest(formula, data = data)
     })
     
     output$anovaResult <- renderPrint({
@@ -53,4 +67,3 @@ server <- function(input, output) {
         plot(TukeyHSD(model()))
     })
 }
-

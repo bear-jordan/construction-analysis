@@ -1,10 +1,10 @@
 # Define UI
 ui <- fluidPage(
-    titlePanel("One-Way ANOVA Assumptions and Analysis"),
+    titlePanel("Multiway ANOVA Assumptions and Analysis"),
     sidebarLayout(
         sidebarPanel(
-            selectInput("variable", "Choose a variable:", 
-                        choices = names(iris)[1:4]),
+            uiOutput("response_ui"),
+            uiOutput("factors_ui"),
             actionButton("analyze", "Analyze")
         ),
         mainPanel(
@@ -18,4 +18,3 @@ ui <- fluidPage(
         )
     )
 )
-
