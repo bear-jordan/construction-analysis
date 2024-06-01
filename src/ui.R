@@ -1,6 +1,19 @@
-# Define UI
 ui <- fluidPage(
-    titlePanel("Construction Analysis"),
+    titlePanel("Statistical Test App"),
+wellPanel(
+        h4("General Workflow:"),
+        p("1. Choose a response variable (must be numeric)."),
+        p("2. Choose one or more factors (must be categorical)."),
+        p("3. Click 'Analyze' to perform the appropriate test (t-test or ANOVA)."),
+        p("4. View the results and interpretations in the respective tabs."),
+        h4("Working Through the Plots:"),
+        p("After performing the analysis, navigate through the tabs to check assumptions and interpret results:"),
+        p("1. Normality: Check if the residuals are normally distributed using the Q-Q Plot and Shapiro-Wilk Test."),
+        p("2. Homogeneity: Check if the variances are equal across groups using the Residuals vs Fitted Values plot and Levene's Test."),
+        p("3. ANOVA Result: Review the ANOVA table to see if the factors have a significant effect on the response variable."),
+        p("4. Tukey Result: If ANOVA is significant, use Tukey's HSD test to identify which groups differ from each other."),
+        p("5. Test Result: If a t-test is performed, review the t-test result for significance between two groups.")
+    ),
     sidebarLayout(
         sidebarPanel(
             uiOutput("response_ui"),
@@ -10,6 +23,7 @@ ui <- fluidPage(
         mainPanel(
             tabsetPanel(
                 id = "results_tabs",
+                selected = "Data",
                 tabPanel("Data", 
                          tableOutput("dataTable"),
                          p("This table shows the first few rows of your dataset.")
@@ -43,4 +57,3 @@ ui <- fluidPage(
         )
     )
 )
-

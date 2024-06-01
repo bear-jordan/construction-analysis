@@ -1,20 +1,22 @@
-par(las=1)
-
 # Define server logic
 server <- function(input, output, session) {
     data <- read.csv("./data/raw-data.csv")
     
+    # Identify numerical and categorical columns
+    numeric_cols <- names(data)[sapply(data, is.numeric)]
+    factor_cols <- names(data)[sapply(data, function(col) is.factor(col) || is.character(col))]
+    
     observe({
-        updateSelectInput(session, "response", choices = names(data))
-        updateCheckboxGroupInput(session, "factors", choices = names(data))
+        updateSelectInput(session, "response", choices = numeric_cols)
+        updateCheckboxGroupInput(session, "factors", choices = factor_cols)
     })
     
     output$response_ui <- renderUI({
-        selectInput("response", "Choose a response variable:", choices = names(data))
+        selectInput("response", "Choose a response variable:", choices = numeric_cols)
     })
     
     output$factors_ui <- renderUI({
-        checkboxGroupInput("factors", "Choose factors:", choices = names(data))
+        checkboxGroupInput("factors", "Choose factors:", choices = factor_cols)
     })
     
     model <- eventReactive(input$analyze, {
@@ -43,7 +45,7 @@ server <- function(input, output, session) {
                 ggtitle("Q-Q Plot of Residuals") +
                 theme(
                     axis.text.x = element_text(angle = 0, hjust = 1), 
-                    axis.text.y = element_text(angle = 0, vjust = 0.5),
+                    axis.text.y = element_text(angle = 0, vjust = 0.5)
                 )
         }
     })
@@ -65,7 +67,7 @@ server <- function(input, output, session) {
                 ggtitle("Residuals vs Fitted Values") +
                 theme(
                     axis.text.x = element_text(angle = 0, hjust = 1), 
-                    axis.text.y = element_text(angle = 0, vjust = 0.5),
+                    axis.text.y = element_text(angle = 0, vjust = 0.5)
                 )
         }
     })
@@ -95,7 +97,7 @@ server <- function(input, output, session) {
     output$tukeyPlot <- renderPlot({
         req(model())
         if (model()$test == "ANOVA") {
-            par(las=1, mar=c(5, 10, 5, 5))
+            par(las = 1, mar = c(5, 10, 5, 5))
             plot(TukeyHSD(model()$model))
         }
     })
