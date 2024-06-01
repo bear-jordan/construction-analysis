@@ -1,7 +1,7 @@
-library(shiny)
-library(tidyverse)
 library(car)
 library(ggpubr)
+library(shiny)
+library(tidyverse)
 
 source("./src/ui.R")
 source("./src/server.R")
