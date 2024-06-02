@@ -8,7 +8,7 @@ To setup:
 5. In RStudio, navigate to the `construction-analysis` folder
 6. Install the required packages (should be prompted or go here)
 
-<img width="1435" alt="Screenshot 2024-06-01 at 8 00 08 PM" src="https://github.com/bear-jordan/construction-analysis/assets/71849897/61e9da86-7b8c-4fff-9f6d-83a7d01b86d5">
+<img width="1435" alt="Screenshot 2024-06-01 at 8 00 08 PM" src="https://github.com/bear-jordan/construction-analysis/assets/71849897/6d00251c-cf7c-462b-a768-d37f6a5181ba">
 
 7. Set `construction-analysis` as the working directory
 
@@ -21,4 +21,4 @@ To setup:
 
 9. Perform analyses by selecting your what `response` is explained by which `factors` (e.g. customer satisfaction is explained by age)
 
-<img width="1435" alt="Screenshot 2024-06-01 at 8 00 08 PM" src="https://github.com/bear-jordan/construction-analysis/assets/71849897/6d00251c-cf7c-462b-a768-d37f6a5181ba">
+<img width="1435" alt="Screenshot 2024-06-01 at 8 05 33 PM" src="https://github.com/bear-jordan/construction-analysis/assets/71849897/b6cd9b42-88c2-47ff-b5c6-48f4c1fd4c62">
