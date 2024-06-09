@@ -1,7 +1,10 @@
+# Load necessary libraries
 library(shiny)
-library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(FSA)
+library(rstatix)
 library(car)
-library(ggpubr)
 
 source("./src/ui.R")
 source("./src/server.R")
